@@ -41,3 +41,9 @@ g.append("path")
 chart.append("text")
    .attr("text-anchor", "middle")
    .text(status);
+
+//necessary css
+//path {
+//    stroke: #ffffff;
+//    stroke-width: 3px;
+//}
